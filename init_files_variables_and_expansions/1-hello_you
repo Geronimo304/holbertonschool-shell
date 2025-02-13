@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'echo "hello $(whoami)"' > 1-hello_you
+echo "hello $USER"
